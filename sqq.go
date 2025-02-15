@@ -1,10 +1,17 @@
  package main
- import ("fmt"
-         "math"
-)
- func main() {
-	  x:=4
-	  result:= math.Sqrt(float64(x))
-     fmt.Println(result)
+//  import ("fmt"
+//          "math"
+// )
+//  func main() {
+// 	var x float64 =4
+// 	  result:= math.Sqrt(x)
+//      fmt.Println(result)
 
- }
+//  }
+
+// //     abc:= {"flower","flot","flown"}
+// //    output= fl
+
+
+   
+
